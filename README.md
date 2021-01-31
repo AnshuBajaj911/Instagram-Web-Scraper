@@ -13,7 +13,7 @@
    Extract the Driver and store the path of the executable file for adding in the ScrapeInsta.py file where mentioned.
 ## For Convenience make a directory and store 
    *ScrapeInsta.py file* in that directory
-## Now also change the directory using Command:
+## Now also change the Current Working directory using Command:
    *cd pathToDirectory/* (*Change Directory*)
 ## The application is console Based And it Asks for Different Inputs in the console itself.
    After providing the credentials and the profile whose images you want to download program will store the images in a new folder and display the name and path of the folder
