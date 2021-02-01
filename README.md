@@ -1,6 +1,6 @@
-# Instagram-Web-Scraper-
-  Scrape images from **Instagram Profiles** Just enter the Profile and the program downloads the images for you. 
-  If the profile is **Private** then only the *Display Picture* will be downloaded.
+# Instagram-Web-Scraper
+  Scrape images from ***Instagram Profiles*** Just enter the Profile and the program downloads the images for you. 
+  If the profile is ***Private*** then only the *Display Picture* will be downloaded.
 
 # How To Run ?
 ## Install python in your local machine.
@@ -9,7 +9,8 @@
 ## Install Packages Using Commands:
    *pip install selenium*
    *pip install random*
-## Download Driver for Chrome Browser Link: https://chromedriver.storage.googleapis.com/index.html?path=88.0.4324.96/
+## Download Driver for Chrome Browser 
+   *Link: https://chromedriver.storage.googleapis.com/index.html?path=88.0.4324.96/*
    Extract the Driver and store the path of the executable file for adding in the ScrapeInsta.py file where mentioned.
 ## For Convenience make a directory and store 
    *ScrapeInsta.py file* in that directory
