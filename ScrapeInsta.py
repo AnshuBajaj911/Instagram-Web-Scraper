@@ -18,9 +18,9 @@ password = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SE
 
 
 username.clear()
-username.send_keys(input("Enter Insta Account Username: ")) #"test___911")
+username.send_keys(input("Enter Insta Account Username: "))
 password.clear()
-password.send_keys(input("Enter Insta Account Password: ")) #"test___9111")
+password.send_keys(input("Enter Insta Account Password: "))
 button = WebDriverWait(driver, 2).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "button[type='submit']"))).click()
 
 
