@@ -18,4 +18,4 @@
    *cd pathToDirectory/* (*Change Directory*)
 ## The application is console Based And it Asks for Different Inputs in the console itself.
    After providing the credentials and the profile whose images you want to download program will store the images in a new folder and display the name and path of the folder
-   If the current working directory is changed correctly according to the above mentioned steps then the same folder where your *ScrapeInsta.py* file is located the new folder        containing the images will be created.
+   If the current working directory is changed correctly according to the above mentioned steps then the same folder where your ***ScrapeInsta.py*** file is located the new folder    containing the images will be created.
